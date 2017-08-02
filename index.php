@@ -20,7 +20,7 @@ if(is_admin())
     new Halal_List_Table();
 }
 new Halal_Contact_Form();
-//new Halal_Contact_Us();
+
 
 
 
